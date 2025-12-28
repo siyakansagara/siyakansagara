@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills
 - HTML, CSS, Bootstrap  
-- JavaScript, React  
-- Node.js  
-- Flutter & Dart  
+- JavaScript, 
 - C, Java  
 
 ---
