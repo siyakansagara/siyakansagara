@@ -5,15 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning JavaScript & MERN Stack
+- 👯 I’m looking to collaborate on beginner-friendly projects
+- 💬 Ask me about HTML, CSS, Bootstrap
+- 📫 How to reach me: https://linkedin.com/in/siya-kansagara-b1a8a8308
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love building creative web pages
+
 
 ## 🛠️ Skills
 - HTML, CSS, Bootstrap  
@@ -21,12 +20,3 @@ Here are some ideas to get you started:
 - C, Java  
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siyakansagara&show_icons=true&theme=dark)
-
----
-
-## 🔗 Connect With Me
-- GitHub: https://github.com/siyakansagara
-- linkdin: https://www.linkedin.com/siya-kansagara-b1a8a8308
