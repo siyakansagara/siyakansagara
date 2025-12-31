@@ -1,6 +1,9 @@
-# Hi 👋, I'm Siya Kansagara
+<h1 align="center">Hey there 👋, I'm Siya Kansagara</h1>
+<h3 align="center">2nd-Year Student | Computer Engineering </h3>
 
-**siyakansagara/siyakansagara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siyakansagara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 Here are some ideas to get you started:
 
@@ -15,7 +18,29 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills
 - HTML, CSS, Bootstrap  
-- JavaScript, 
+- JavaScript, .Net
 - C, Java  
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siyakansagara&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyakansagara&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
