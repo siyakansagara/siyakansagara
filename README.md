@@ -20,18 +20,6 @@ Here are some ideas to get you started:
 - HTML, CSS, Bootstrap  
 - JavaScript, .Net
 - C, Java  
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyakansagara&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyakansagara&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
